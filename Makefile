@@ -1,3 +1,4 @@
 
 default:
+	@echo success
 	true
