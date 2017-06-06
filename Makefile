@@ -1,4 +1,4 @@
-
+ 
 default:
-	@echo success
+	@echo success2
 	true
